@@ -1,4 +1,4 @@
-### Every visit makes an impact 👋
+### Small things matter 👋
 ![](https://komarev.com/ghpvc/?username=amanagrawal17&color=990099&base=789)
 <!--
 **amanagrawal17/amanagrawal17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
